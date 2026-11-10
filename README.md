@@ -101,4 +101,5 @@ npm run dev
 - **License:** Released under the [Apache License 2.0](https://github.com/rzprince/NASA-SPACE-APPS-Challenge-2026/blob/main/LICENSE)
 
 ![BoponX Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:b8ff57,50:0b2e1c,100:04120b&height=110&section=footer)#   N a s a - S p a c e - A p p - C h a t b o t  
+ #   N a s a - S p a c e - A p p - C h a t b o t  
  
